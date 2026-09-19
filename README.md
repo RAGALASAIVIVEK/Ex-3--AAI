@@ -3,7 +3,7 @@
 <H3>ENTER YOUR NAME : RAGALA SAI VIVEK </H3>
 <H3>ENTER YOUR REGISTER NO : 212223230163 </H3>
 <H3>EX. NO.3 </H3>
-<H3>DATE:16-05-2026</H3>
+<H3>DATE:01-08-2026</H3>
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
